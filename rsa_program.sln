@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{1A2B89B3-022F-EBEB-5198-BCD0FE097DB1}") = "rsa_program", "Assembly-CSharp.csproj", "{BD36ED71-B8BE-BA20-F4E8-F431CA1AFB0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD36ED71-B8BE-BA20-F4E8-F431CA1AFB0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD36ED71-B8BE-BA20-F4E8-F431CA1AFB0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD36ED71-B8BE-BA20-F4E8-F431CA1AFB0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD36ED71-B8BE-BA20-F4E8-F431CA1AFB0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
